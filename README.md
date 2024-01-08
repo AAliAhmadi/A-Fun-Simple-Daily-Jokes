@@ -1,0 +1,1 @@
+This is a very simple but cool Object Oriented program for receiving 3 jokes form 3 free API website for jokes: https://v2.jokeapi.dev, https://icanhazdadjoke.com and https://api.api-ninjas.com. The latter need an API-Key to response. Thus, if you want it, simply register and get your own API-key for free.
